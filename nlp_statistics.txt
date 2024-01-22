@@ -1,0 +1,1224 @@
+URL: https://www.healthline.com/1
+Number of Sentences: 15
+Number of Words: 417
+Average Word Length: 7.46
+Lexical Diversity: 64.51%
+Common Words: [('healthline', 6), ('medical', 6), ('information', 5), ('health', 4), ('media', 4)]
+Percentage of Stop Words: 31.89%
+Noun Count: 154
+
+URL: https://www.healthline.com/2
+Number of Sentences: 12
+Number of Words: 277
+Average Word Length: 9.16
+Lexical Diversity: 66.06%
+Common Words: [('healthline', 5), ('support', 5), ('information', 4), ('media', 4), ('see', 4)]
+Percentage of Stop Words: 25.63%
+Noun Count: 123
+
+URL: https://www.healthline.com/3
+Number of Sentences: 46
+Number of Words: 1497
+Average Word Length: 6.34
+Lexical Diversity: 41.15%
+Common Words: [('breast', 112), ('cancer', 84), ('learn', 14), ('treatment', 13), ('risk', 12)]
+Percentage of Stop Words: 33.60%
+Noun Count: 568
+
+URL: https://www.healthline.com/4
+Number of Sentences: 33
+Number of Words: 1200
+Average Word Length: 6.40
+Lexical Diversity: 46.33%
+Common Words: [('disease', 27), ('ulcerative', 24), ('colitis', 24), ('bowel', 20), ('ibd', 15)]
+Percentage of Stop Words: 32.58%
+Noun Count: 409
+
+URL: https://www.healthline.com/5
+Number of Sentences: 34
+Number of Words: 1066
+Average Word Length: 6.52
+Lexical Diversity: 47.94%
+Common Words: [('migraine', 57), ('may', 18), ('chronic', 11), ('treatment', 8), ('symptoms', 7)]
+Percentage of Stop Words: 35.18%
+Noun Count: 374
+
+URL: https://www.healthline.com/6
+Number of Sentences: 41
+Number of Words: 1395
+Average Word Length: 6.24
+Lexical Diversity: 44.44%
+Common Words: [('ms', 57), ('multiple', 55), ('sclerosis', 53), ('people', 15), ('symptoms', 13)]
+Percentage of Stop Words: 34.27%
+Noun Count: 464
+
+URL: https://www.healthline.com/7
+Number of Sentences: 39
+Number of Words: 1181
+Average Word Length: 6.56
+Lexical Diversity: 43.69%
+Common Words: [('arthritis', 52), ('rheumatoid', 30), ('ra', 17), ('pain', 16), ('help', 15)]
+Percentage of Stop Words: 34.46%
+Noun Count: 415
+
+URL: https://www.healthline.com/8
+Number of Sentences: 91
+Number of Words: 2115
+Average Word Length: 5.55
+Lexical Diversity: 29.93%
+Common Words: [('diabetes', 56), ('2', 34), ('type', 31), ('blood', 30), ('sugar', 28)]
+Percentage of Stop Words: 36.22%
+Noun Count: 613
+
+URL: https://www.healthline.com/9
+Number of Sentences: 13
+Number of Words: 455
+Average Word Length: 8.18
+Lexical Diversity: 68.57%
+Common Words: [('healthline', 5), ('information', 5), ('medical', 4), ('health', 4), ('guide', 4)]
+Percentage of Stop Words: 24.84%
+Noun Count: 171
+
+URL: https://www.healthline.com/10
+Number of Sentences: 12
+Number of Words: 298
+Average Word Length: 12.99
+Lexical Diversity: 78.86%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 13.76%
+Noun Count: 148
+
+URL: https://www.healthline.com/11
+Number of Sentences: 79
+Number of Words: 2201
+Average Word Length: 6.14
+Lexical Diversity: 38.98%
+Common Words: [('may', 41), ('gerd', 36), ('symptoms', 28), ('reflux', 26), ('acid', 22)]
+Percentage of Stop Words: 35.85%
+Noun Count: 671
+
+URL: https://www.healthline.com/12
+Number of Sentences: 158
+Number of Words: 3350
+Average Word Length: 6.07
+Lexical Diversity: 33.46%
+Common Words: [('adhd', 108), ('may', 27), ('symptoms', 24), ('help', 22), ('disorder', 21)]
+Percentage of Stop Words: 38.60%
+Noun Count: 999
+
+URL: https://www.healthline.com/13
+Number of Sentences: 151
+Number of Words: 2790
+Average Word Length: 6.23
+Lexical Diversity: 35.30%
+Common Words: [('allergies', 59), ('symptoms', 32), ('may', 28), ('common', 27), ('allergy', 26)]
+Percentage of Stop Words: 38.28%
+Noun Count: 806
+
+URL: https://www.healthline.com/14
+Number of Sentences: 153
+Number of Words: 3158
+Average Word Length: 6.22
+Lexical Diversity: 33.95%
+Common Words: [('alzheimers', 105), ('disease', 51), ('help', 31), ('may', 29), ('symptoms', 24)]
+Percentage of Stop Words: 37.56%
+Noun Count: 961
+
+URL: https://www.healthline.com/15
+Number of Sentences: 154
+Number of Words: 4655
+Average Word Length: 6.11
+Lexical Diversity: 30.59%
+Common Words: [('bipolar', 123), ('disorder', 97), ('symptoms', 55), ('mood', 39), ('may', 34)]
+Percentage of Stop Words: 36.71%
+Noun Count: 1331
+
+URL: https://www.healthline.com/16
+Number of Sentences: 104
+Number of Words: 2575
+Average Word Length: 6.34
+Lexical Diversity: 39.61%
+Common Words: [('cancer', 102), ('may', 32), ('cells', 28), ('treatment', 20), ('risk', 14)]
+Percentage of Stop Words: 34.64%
+Noun Count: 844
+
+URL: https://www.healthline.com/17
+Number of Sentences: 111
+Number of Words: 2403
+Average Word Length: 6.24
+Lexical Diversity: 37.95%
+Common Words: [('crohns', 67), ('disease', 57), ('may', 29), ('symptoms', 27), ('help', 15)]
+Percentage of Stop Words: 36.58%
+Noun Count: 737
+
+URL: https://www.healthline.com/18
+Number of Sentences: 66
+Number of Words: 1472
+Average Word Length: 6.44
+Lexical Diversity: 49.05%
+Common Words: [('pain', 59), ('chronic', 39), ('may', 11), ('reviewed', 9), ('injury', 9)]
+Percentage of Stop Words: 33.02%
+Noun Count: 466
+
+URL: https://www.healthline.com/19
+Number of Sentences: 213
+Number of Words: 4618
+Average Word Length: 5.40
+Lexical Diversity: 28.06%
+Common Words: [('flu', 175), ('symptoms', 63), ('may', 37), ('virus', 37), ('get', 30)]
+Percentage of Stop Words: 40.49%
+Noun Count: 1246
+
+URL: https://www.healthline.com/20
+Number of Sentences: 163
+Number of Words: 3324
+Average Word Length: 6.03
+Lexical Diversity: 35.83%
+Common Words: [('copd', 69), ('lung', 26), ('may', 23), ('people', 23), ('symptoms', 20)]
+Percentage of Stop Words: 38.45%
+Noun Count: 982
+
+URL: https://www.healthline.com/21
+Number of Sentences: 215
+Number of Words: 5012
+Average Word Length: 6.43
+Lexical Diversity: 31.80%
+Common Words: [('depression', 112), ('symptoms', 54), ('may', 50), ('people', 30), ('disorder', 28)]
+Percentage of Stop Words: 37.03%
+Noun Count: 1524
+
+URL: https://www.healthline.com/22
+Number of Sentences: 161
+Number of Words: 3885
+Average Word Length: 6.20
+Lexical Diversity: 33.28%
+Common Words: [('fibromyalgia', 112), ('pain', 59), ('may', 40), ('symptoms', 34), ('help', 23)]
+Percentage of Stop Words: 38.74%
+Noun Count: 1117
+
+URL: https://www.healthline.com/23
+Number of Sentences: 113
+Number of Words: 2546
+Average Word Length: 6.28
+Lexical Diversity: 36.06%
+Common Words: [('heart', 116), ('disease', 65), ('symptoms', 25), ('blood', 24), ('risk', 22)]
+Percentage of Stop Words: 37.08%
+Noun Count: 832
+
+URL: https://www.healthline.com/24
+Number of Sentences: 99
+Number of Words: 2719
+Average Word Length: 6.26
+Lexical Diversity: 36.48%
+Common Words: [('cholesterol', 104), ('high', 60), ('levels', 26), ('may', 26), ('risk', 21)]
+Percentage of Stop Words: 34.90%
+Noun Count: 886
+
+URL: https://www.healthline.com/25
+Number of Sentences: 268
+Number of Words: 6095
+Average Word Length: 5.72
+Lexical Diversity: 27.76%
+Common Words: [('hiv', 198), ('person', 49), ('people', 41), ('symptoms', 38), ('aids', 34)]
+Percentage of Stop Words: 39.16%
+Noun Count: 1763
+
+URL: https://www.healthline.com/26
+Number of Sentences: 143
+Number of Words: 3532
+Average Word Length: 5.95
+Lexical Diversity: 31.91%
+Common Words: [('blood', 117), ('pressure', 83), ('hypertension', 55), ('high', 40), ('may', 32)]
+Percentage of Stop Words: 36.07%
+Noun Count: 1153
+
+URL: https://www.healthline.com/27
+Number of Sentences: 81
+Number of Words: 1891
+Average Word Length: 6.49
+Lexical Diversity: 41.62%
+Common Words: [('pulmonary', 33), ('ipf', 30), ('fibrosis', 24), ('idiopathic', 21), ('lung', 19)]
+Percentage of Stop Words: 33.58%
+Noun Count: 599
+
+URL: https://www.healthline.com/28
+Number of Sentences: 160
+Number of Words: 3486
+Average Word Length: 5.85
+Lexical Diversity: 34.60%
+Common Words: [('oa', 54), ('joint', 34), ('may', 34), ('help', 32), ('pain', 31)]
+Percentage of Stop Words: 37.78%
+Noun Count: 1028
+
+URL: https://www.healthline.com/29
+Number of Sentences: 175
+Number of Words: 3441
+Average Word Length: 6.24
+Lexical Diversity: 34.15%
+Common Words: [('psoriasis', 96), ('skin', 44), ('may', 41), ('symptoms', 25), ('people', 24)]
+Percentage of Stop Words: 36.70%
+Noun Count: 1014
+
+URL: https://www.healthline.com/30
+Number of Sentences: 155
+Number of Words: 3963
+Average Word Length: 6.56
+Lexical Diversity: 35.35%
+Common Words: [('skin', 156), ('may', 55), ('disorders', 29), ('conditions', 28), ('causes', 27)]
+Percentage of Stop Words: 33.74%
+Noun Count: 1190
+
+URL: https://www.healthline.com/31
+Number of Sentences: 94
+Number of Words: 2216
+Average Word Length: 6.37
+Lexical Diversity: 41.34%
+Common Words: [('std', 21), ('disease', 17), ('transmitted', 16), ('stis', 15), ('reviewed', 14)]
+Percentage of Stop Words: 37.45%
+Noun Count: 617
+
+URL: https://www.healthline.com/32
+Number of Sentences: 12
+Number of Words: 445
+Average Word Length: 7.95
+Lexical Diversity: 65.62%
+Common Words: [('care', 7), ('healthline', 5), ('health', 5), ('information', 4), ('media', 4)]
+Percentage of Stop Words: 29.66%
+Noun Count: 157
+
+URL: https://www.healthline.com/33
+Number of Sentences: 30
+Number of Words: 1245
+Average Word Length: 5.98
+Lexical Diversity: 50.28%
+Common Words: [('diet', 12), ('healthy', 11), ('eating', 11), ('food', 10), ('may', 10)]
+Percentage of Stop Words: 35.02%
+Noun Count: 379
+
+URL: https://www.healthline.com/34
+Number of Sentences: 35
+Number of Words: 1208
+Average Word Length: 5.88
+Lexical Diversity: 50.33%
+Common Words: [('exercise', 11), ('exercises', 9), ('body', 8), ('yoga', 8), ('core', 7)]
+Percentage of Stop Words: 39.32%
+Noun Count: 366
+
+URL: https://www.healthline.com/35
+Number of Sentences: 34
+Number of Words: 1331
+Average Word Length: 5.81
+Lexical Diversity: 46.36%
+Common Words: [('skin', 50), ('care', 24), ('acne', 10), ('tips', 9), ('healthline', 7)]
+Percentage of Stop Words: 36.96%
+Noun Count: 424
+
+URL: https://www.healthline.com/36
+Number of Sentences: 34
+Number of Words: 945
+Average Word Length: 6.26
+Lexical Diversity: 53.54%
+Common Words: [('sex', 10), ('birth', 7), ('get', 7), ('hiv', 7), ('relationship', 6)]
+Percentage of Stop Words: 35.87%
+Noun Count: 303
+
+URL: https://www.healthline.com/37
+Number of Sentences: 42
+Number of Words: 1117
+Average Word Length: 5.92
+Lexical Diversity: 50.76%
+Common Words: [('help', 9), ('health', 8), ('mental', 6), ('ways', 6), ('improve', 6)]
+Percentage of Stop Words: 39.93%
+Noun Count: 305
+
+URL: https://www.healthline.com/38
+Number of Sentences: 36
+Number of Words: 1115
+Average Word Length: 5.95
+Lexical Diversity: 49.51%
+Common Words: [('mental', 14), ('health', 11), ('need', 9), ('media', 8), ('help', 7)]
+Percentage of Stop Words: 36.50%
+Noun Count: 333
+
+URL: https://www.healthline.com/39
+Number of Sentences: 36
+Number of Words: 1008
+Average Word Length: 6.01
+Lexical Diversity: 49.80%
+Common Words: [('sleep', 39), ('healthline', 9), ('dreams', 9), ('get', 9), ('tips', 8)]
+Percentage of Stop Words: 37.00%
+Noun Count: 295
+
+URL: https://www.healthline.com/40
+Number of Sentences: 48
+Number of Words: 1544
+Average Word Length: 5.80
+Lexical Diversity: 43.72%
+Common Words: [('best', 59), ('2024', 17), ('services', 13), ('online', 9), ('health', 8)]
+Percentage of Stop Words: 32.97%
+Noun Count: 459
+
+URL: https://www.healthline.com/41
+Number of Sentences: 18
+Number of Words: 671
+Average Word Length: 7.09
+Lexical Diversity: 51.42%
+Common Words: [('best', 22), ('supplements', 20), ('2024', 9), ('according', 9), ('vitamin', 8)]
+Percentage of Stop Words: 29.66%
+Noun Count: 222
+
+URL: https://www.healthline.com/42
+Number of Sentences: 29
+Number of Words: 927
+Average Word Length: 6.03
+Lexical Diversity: 43.15%
+Common Words: [('best', 43), ('sleep', 16), ('mattresses', 16), ('back', 10), ('check', 9)]
+Percentage of Stop Words: 32.69%
+Noun Count: 273
+
+URL: https://www.healthline.com/43
+Number of Sentences: 31
+Number of Words: 1016
+Average Word Length: 6.19
+Lexical Diversity: 45.57%
+Common Words: [('best', 30), ('therapy', 18), ('online', 15), ('support', 11), ('books', 10)]
+Percentage of Stop Words: 32.58%
+Noun Count: 330
+
+URL: https://www.healthline.com/44
+Number of Sentences: 32
+Number of Words: 1346
+Average Word Length: 6.11
+Lexical Diversity: 43.16%
+Common Words: [('meal', 45), ('delivery', 43), ('best', 35), ('services', 26), ('review', 14)]
+Percentage of Stop Words: 28.60%
+Noun Count: 488
+
+URL: https://www.healthline.com/45
+Number of Sentences: 61
+Number of Words: 2207
+Average Word Length: 5.51
+Lexical Diversity: 36.70%
+Common Words: [('tests', 60), ('athome', 48), ('test', 47), ('best', 30), ('testing', 23)]
+Percentage of Stop Words: 35.30%
+Noun Count: 702
+
+URL: https://www.healthline.com/46
+Number of Sentences: 32
+Number of Words: 942
+Average Word Length: 5.82
+Lexical Diversity: 42.36%
+Common Words: [('cbd', 56), ('best', 28), ('products', 17), ('oils', 14), ('2024', 11)]
+Percentage of Stop Words: 31.10%
+Noun Count: 310
+
+URL: https://www.healthline.com/47
+Number of Sentences: 21
+Number of Words: 656
+Average Word Length: 6.52
+Lexical Diversity: 54.57%
+Common Words: [('hair', 11), ('loss', 10), ('2024', 8), ('ed', 8), ('review', 8)]
+Percentage of Stop Words: 31.71%
+Noun Count: 227
+
+URL: https://www.healthline.com/48
+Number of Sentences: 13
+Number of Words: 266
+Average Word Length: 8.94
+Lexical Diversity: 72.56%
+Common Words: [('healthline', 5), ('health', 4), ('advice', 4), ('information', 4), ('media', 4)]
+Percentage of Stop Words: 23.31%
+Noun Count: 112
+
+URL: https://www.healthline.com/49
+Number of Sentences: 15
+Number of Words: 405
+Average Word Length: 7.92
+Lexical Diversity: 67.41%
+Common Words: [('ms', 10), ('health', 8), ('benefits', 8), ('rd', 5), ('food', 4)]
+Percentage of Stop Words: 19.51%
+Noun Count: 191
+
+URL: https://www.healthline.com/50
+Number of Sentences: 16
+Number of Words: 364
+Average Word Length: 8.62
+Lexical Diversity: 71.43%
+Common Words: [('diagnosisby', 15), ('diagnosis', 12), ('personal', 5), ('storyby', 5), ('information', 4)]
+Percentage of Stop Words: 16.21%
+Noun Count: 184
+
+URL: https://www.healthline.com/51
+Number of Sentences: 15
+Number of Words: 418
+Average Word Length: 7.67
+Lexical Diversity: 69.14%
+Common Words: [('mental', 5), ('youre', 4), ('information', 4), ('healthline', 4), ('media', 4)]
+Percentage of Stop Words: 27.99%
+Noun Count: 160
+
+URL: https://www.healthline.com/52
+Number of Sentences: 14
+Number of Words: 428
+Average Word Length: 7.30
+Lexical Diversity: 63.08%
+Common Words: [('tense', 15), ('crystal', 6), ('see', 5), ('mindfulness', 4), ('ways', 4)]
+Percentage of Stop Words: 28.50%
+Noun Count: 167
+
+URL: https://www.healthline.com/53
+Number of Sentences: 50
+Number of Words: 1544
+Average Word Length: 5.61
+Lexical Diversity: 41.71%
+Common Words: [('video', 26), ('yoga', 18), ('learn', 14), ('period', 12), ('ways', 11)]
+Percentage of Stop Words: 35.88%
+Noun Count: 507
+
+URL: https://www.healthline.com/54
+Number of Sentences: 22
+Number of Words: 555
+Average Word Length: 7.01
+Lexical Diversity: 62.88%
+Common Words: [('health', 5), ('reviewed', 5), ('read', 5), ('information', 4), ('healthline', 4)]
+Percentage of Stop Words: 31.17%
+Noun Count: 201
+
+URL: https://www.healthline.com/55
+Number of Sentences: 21
+Number of Words: 569
+Average Word Length: 6.63
+Lexical Diversity: 59.05%
+Common Words: [('ms', 7), ('information', 6), ('article', 5), ('morehow', 5), ('make', 5)]
+Percentage of Stop Words: 29.88%
+Noun Count: 212
+
+URL: https://www.healthline.com/56
+Number of Sentences: 15
+Number of Words: 422
+Average Word Length: 7.57
+Lexical Diversity: 56.87%
+Common Words: [('breast', 14), ('cancer', 12), ('metastatic', 11), ('artists', 7), ('healthline', 7)]
+Percentage of Stop Words: 27.01%
+Noun Count: 176
+
+URL: https://www.healthline.com/57
+Number of Sentences: 23
+Number of Words: 560
+Average Word Length: 6.93
+Lexical Diversity: 60.54%
+Common Words: [('reviewed', 6), ('health', 5), ('see', 5), ('read', 5), ('morewhat', 5)]
+Percentage of Stop Words: 31.25%
+Noun Count: 201
+
+URL: https://www.healthline.com/58
+Number of Sentences: 14
+Number of Words: 247
+Average Word Length: 9.05
+Lexical Diversity: 68.42%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 24.29%
+Noun Count: 98
+
+URL: https://www.healthline.com/59
+Number of Sentences: 12
+Number of Words: 223
+Average Word Length: 9.28
+Lexical Diversity: 71.30%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 23.77%
+Noun Count: 91
+
+URL: https://www.healthline.com/60
+Number of Sentences: 12
+Number of Words: 236
+Average Word Length: 9.34
+Lexical Diversity: 71.19%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 25.00%
+Noun Count: 98
+
+URL: https://www.healthline.com/61
+Number of Sentences: 12
+Number of Words: 236
+Average Word Length: 8.84
+Lexical Diversity: 68.64%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 27.97%
+Noun Count: 95
+
+URL: https://www.healthline.com/62
+Number of Sentences: 12
+Number of Words: 235
+Average Word Length: 9.34
+Lexical Diversity: 71.06%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 24.68%
+Noun Count: 99
+
+URL: https://www.healthline.com/63
+Number of Sentences: 24
+Number of Words: 1062
+Average Word Length: 6.72
+Lexical Diversity: 44.54%
+Common Words: [('tips', 14), ('guidance', 13), ('managing', 11), ('health', 10), ('advice', 10)]
+Percentage of Stop Words: 35.40%
+Noun Count: 367
+
+URL: https://www.healthline.com/72
+Number of Sentences: 12
+Number of Words: 197
+Average Word Length: 10.08
+Lexical Diversity: 74.11%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 20.81%
+Noun Count: 87
+
+URL: https://www.healthline.com/73
+Number of Sentences: 36
+Number of Words: 1065
+Average Word Length: 6.76
+Lexical Diversity: 50.70%
+Common Words: [('depression', 17), ('symptoms', 16), ('health', 15), ('mental', 14), ('professional', 11)]
+Percentage of Stop Words: 35.31%
+Noun Count: 329
+
+URL: https://www.healthline.com/74
+Number of Sentences: 73
+Number of Words: 1749
+Average Word Length: 5.84
+Lexical Diversity: 45.97%
+Common Words: [('work', 33), ('health', 15), ('addiction', 12), ('women', 10), ('reviewed', 9)]
+Percentage of Stop Words: 36.65%
+Noun Count: 523
+
+URL: https://www.healthline.com/75
+Number of Sentences: 35
+Number of Words: 715
+Average Word Length: 7.12
+Lexical Diversity: 56.78%
+Common Words: [('sleep', 23), ('reviewed', 6), ('research', 6), ('time', 5), ('information', 5)]
+Percentage of Stop Words: 32.17%
+Noun Count: 227
+
+URL: https://www.healthline.com/79
+Number of Sentences: 15
+Number of Words: 276
+Average Word Length: 9.50
+Lexical Diversity: 69.57%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 25.72%
+Noun Count: 121
+
+URL: https://www.healthline.com/1
+Number of Sentences: 15
+Number of Words: 417
+Average Word Length: 7.46
+Lexical Diversity: 64.51%
+Common Words: [('healthline', 6), ('medical', 6), ('information', 5), ('health', 4), ('media', 4)]
+Percentage of Stop Words: 31.89%
+Noun Count: 154
+
+URL: https://www.healthline.com/2
+Number of Sentences: 12
+Number of Words: 275
+Average Word Length: 9.25
+Lexical Diversity: 66.18%
+Common Words: [('healthline', 5), ('support', 5), ('information', 4), ('media', 4), ('see', 4)]
+Percentage of Stop Words: 25.45%
+Noun Count: 121
+
+URL: https://www.healthline.com/3
+Number of Sentences: 46
+Number of Words: 1497
+Average Word Length: 6.34
+Lexical Diversity: 41.15%
+Common Words: [('breast', 112), ('cancer', 84), ('learn', 14), ('treatment', 13), ('risk', 12)]
+Percentage of Stop Words: 33.60%
+Noun Count: 568
+
+URL: https://www.healthline.com/4
+Number of Sentences: 33
+Number of Words: 1200
+Average Word Length: 6.40
+Lexical Diversity: 46.33%
+Common Words: [('disease', 27), ('ulcerative', 24), ('colitis', 24), ('bowel', 20), ('ibd', 15)]
+Percentage of Stop Words: 32.58%
+Noun Count: 409
+
+URL: https://www.healthline.com/5
+Number of Sentences: 34
+Number of Words: 1066
+Average Word Length: 6.52
+Lexical Diversity: 47.94%
+Common Words: [('migraine', 57), ('may', 18), ('chronic', 11), ('treatment', 8), ('symptoms', 7)]
+Percentage of Stop Words: 35.18%
+Noun Count: 374
+
+URL: https://www.healthline.com/6
+Number of Sentences: 41
+Number of Words: 1395
+Average Word Length: 6.24
+Lexical Diversity: 44.44%
+Common Words: [('ms', 57), ('multiple', 55), ('sclerosis', 53), ('people', 15), ('symptoms', 13)]
+Percentage of Stop Words: 34.27%
+Noun Count: 464
+
+URL: https://www.healthline.com/7
+Number of Sentences: 39
+Number of Words: 1181
+Average Word Length: 6.56
+Lexical Diversity: 43.69%
+Common Words: [('arthritis', 52), ('rheumatoid', 30), ('ra', 17), ('pain', 16), ('help', 15)]
+Percentage of Stop Words: 34.46%
+Noun Count: 415
+
+URL: https://www.healthline.com/8
+Number of Sentences: 91
+Number of Words: 2115
+Average Word Length: 5.55
+Lexical Diversity: 29.93%
+Common Words: [('diabetes', 56), ('2', 34), ('type', 31), ('blood', 30), ('sugar', 28)]
+Percentage of Stop Words: 36.22%
+Noun Count: 613
+
+URL: https://www.healthline.com/9
+Number of Sentences: 13
+Number of Words: 455
+Average Word Length: 8.33
+Lexical Diversity: 69.23%
+Common Words: [('healthline', 5), ('information', 5), ('medical', 4), ('health', 4), ('guide', 4)]
+Percentage of Stop Words: 24.40%
+Noun Count: 170
+
+URL: https://www.healthline.com/10
+Number of Sentences: 12
+Number of Words: 289
+Average Word Length: 12.98
+Lexical Diversity: 78.55%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 13.84%
+Noun Count: 143
+
+URL: https://www.healthline.com/11
+Number of Sentences: 79
+Number of Words: 2194
+Average Word Length: 6.10
+Lexical Diversity: 38.79%
+Common Words: [('may', 41), ('gerd', 36), ('symptoms', 28), ('reflux', 26), ('acid', 22)]
+Percentage of Stop Words: 35.96%
+Noun Count: 668
+
+URL: https://www.healthline.com/12
+Number of Sentences: 158
+Number of Words: 3319
+Average Word Length: 6.07
+Lexical Diversity: 33.65%
+Common Words: [('adhd', 108), ('may', 27), ('symptoms', 24), ('help', 22), ('children', 21)]
+Percentage of Stop Words: 38.66%
+Noun Count: 986
+
+URL: https://www.healthline.com/13
+Number of Sentences: 151
+Number of Words: 2790
+Average Word Length: 6.23
+Lexical Diversity: 35.30%
+Common Words: [('allergies', 59), ('symptoms', 32), ('may', 28), ('common', 27), ('allergy', 26)]
+Percentage of Stop Words: 38.28%
+Noun Count: 806
+
+URL: https://www.healthline.com/14
+Number of Sentences: 153
+Number of Words: 3151
+Average Word Length: 6.19
+Lexical Diversity: 33.80%
+Common Words: [('alzheimers', 105), ('disease', 51), ('help', 31), ('may', 29), ('symptoms', 24)]
+Percentage of Stop Words: 37.64%
+Noun Count: 958
+
+URL: https://www.healthline.com/15
+Number of Sentences: 154
+Number of Words: 4662
+Average Word Length: 6.13
+Lexical Diversity: 30.67%
+Common Words: [('bipolar', 123), ('disorder', 97), ('symptoms', 55), ('mood', 39), ('may', 34)]
+Percentage of Stop Words: 36.66%
+Noun Count: 1334
+
+URL: https://www.healthline.com/16
+Number of Sentences: 104
+Number of Words: 2613
+Average Word Length: 6.33
+Lexical Diversity: 39.30%
+Common Words: [('cancer', 105), ('may', 33), ('cells', 28), ('treatment', 20), ('risk', 14)]
+Percentage of Stop Words: 34.44%
+Noun Count: 860
+
+URL: https://www.healthline.com/17
+Number of Sentences: 111
+Number of Words: 2423
+Average Word Length: 6.24
+Lexical Diversity: 37.68%
+Common Words: [('crohns', 70), ('disease', 59), ('may', 29), ('symptoms', 27), ('help', 15)]
+Percentage of Stop Words: 36.48%
+Noun Count: 744
+
+URL: https://www.healthline.com/18
+Number of Sentences: 66
+Number of Words: 1472
+Average Word Length: 6.44
+Lexical Diversity: 49.05%
+Common Words: [('pain', 59), ('chronic', 39), ('may', 11), ('reviewed', 9), ('injury', 9)]
+Percentage of Stop Words: 33.02%
+Noun Count: 466
+
+URL: https://www.healthline.com/19
+Number of Sentences: 213
+Number of Words: 4618
+Average Word Length: 5.40
+Lexical Diversity: 28.06%
+Common Words: [('flu', 175), ('symptoms', 63), ('may', 37), ('virus', 37), ('get', 30)]
+Percentage of Stop Words: 40.49%
+Noun Count: 1246
+
+URL: https://www.healthline.com/20
+Number of Sentences: 163
+Number of Words: 3324
+Average Word Length: 6.03
+Lexical Diversity: 35.83%
+Common Words: [('copd', 69), ('lung', 26), ('may', 23), ('people', 23), ('symptoms', 20)]
+Percentage of Stop Words: 38.45%
+Noun Count: 982
+
+URL: https://www.healthline.com/21
+Number of Sentences: 215
+Number of Words: 5012
+Average Word Length: 6.43
+Lexical Diversity: 31.80%
+Common Words: [('depression', 112), ('symptoms', 54), ('may', 50), ('people', 30), ('disorder', 28)]
+Percentage of Stop Words: 37.03%
+Noun Count: 1524
+
+URL: https://www.healthline.com/22
+Number of Sentences: 161
+Number of Words: 3881
+Average Word Length: 6.18
+Lexical Diversity: 33.21%
+Common Words: [('fibromyalgia', 112), ('pain', 59), ('may', 40), ('symptoms', 34), ('help', 23)]
+Percentage of Stop Words: 38.78%
+Noun Count: 1114
+
+URL: https://www.healthline.com/23
+Number of Sentences: 113
+Number of Words: 2546
+Average Word Length: 6.28
+Lexical Diversity: 36.06%
+Common Words: [('heart', 116), ('disease', 65), ('symptoms', 25), ('blood', 24), ('risk', 22)]
+Percentage of Stop Words: 37.08%
+Noun Count: 832
+
+URL: https://www.healthline.com/24
+Number of Sentences: 99
+Number of Words: 2724
+Average Word Length: 6.28
+Lexical Diversity: 36.56%
+Common Words: [('cholesterol', 104), ('high', 60), ('levels', 26), ('may', 26), ('risk', 21)]
+Percentage of Stop Words: 34.84%
+Noun Count: 888
+
+URL: https://www.healthline.com/25
+Number of Sentences: 268
+Number of Words: 6095
+Average Word Length: 5.72
+Lexical Diversity: 27.76%
+Common Words: [('hiv', 198), ('person', 49), ('people', 41), ('symptoms', 38), ('aids', 34)]
+Percentage of Stop Words: 39.16%
+Noun Count: 1763
+
+URL: https://www.healthline.com/26
+Number of Sentences: 143
+Number of Words: 3539
+Average Word Length: 5.98
+Lexical Diversity: 32.01%
+Common Words: [('blood', 117), ('pressure', 83), ('hypertension', 55), ('high', 40), ('may', 32)]
+Percentage of Stop Words: 36.00%
+Noun Count: 1156
+
+URL: https://www.healthline.com/27
+Number of Sentences: 81
+Number of Words: 1898
+Average Word Length: 6.53
+Lexical Diversity: 41.78%
+Common Words: [('pulmonary', 33), ('ipf', 30), ('fibrosis', 24), ('idiopathic', 21), ('lung', 19)]
+Percentage of Stop Words: 33.46%
+Noun Count: 602
+
+URL: https://www.healthline.com/28
+Number of Sentences: 160
+Number of Words: 3481
+Average Word Length: 5.84
+Lexical Diversity: 34.53%
+Common Words: [('oa', 54), ('joint', 34), ('may', 34), ('help', 32), ('pain', 31)]
+Percentage of Stop Words: 37.81%
+Noun Count: 1026
+
+URL: https://www.healthline.com/29
+Number of Sentences: 175
+Number of Words: 3441
+Average Word Length: 6.24
+Lexical Diversity: 34.15%
+Common Words: [('psoriasis', 96), ('skin', 44), ('may', 41), ('symptoms', 25), ('people', 24)]
+Percentage of Stop Words: 36.70%
+Noun Count: 1014
+
+URL: https://www.healthline.com/30
+Number of Sentences: 155
+Number of Words: 3963
+Average Word Length: 6.56
+Lexical Diversity: 35.35%
+Common Words: [('skin', 156), ('may', 55), ('disorders', 29), ('conditions', 28), ('causes', 27)]
+Percentage of Stop Words: 33.74%
+Noun Count: 1190
+
+URL: https://www.healthline.com/31
+Number of Sentences: 94
+Number of Words: 2216
+Average Word Length: 6.37
+Lexical Diversity: 41.34%
+Common Words: [('std', 21), ('disease', 17), ('transmitted', 16), ('stis', 15), ('reviewed', 14)]
+Percentage of Stop Words: 37.45%
+Noun Count: 617
+
+URL: https://www.healthline.com/32
+Number of Sentences: 12
+Number of Words: 438
+Average Word Length: 7.79
+Lexical Diversity: 65.07%
+Common Words: [('care', 7), ('healthline', 5), ('health', 5), ('information', 4), ('media', 4)]
+Percentage of Stop Words: 30.14%
+Noun Count: 156
+
+URL: https://www.healthline.com/33
+Number of Sentences: 30
+Number of Words: 1245
+Average Word Length: 5.98
+Lexical Diversity: 50.28%
+Common Words: [('diet', 12), ('healthy', 11), ('eating', 11), ('food', 10), ('may', 10)]
+Percentage of Stop Words: 35.02%
+Noun Count: 379
+
+URL: https://www.healthline.com/34
+Number of Sentences: 35
+Number of Words: 1208
+Average Word Length: 5.88
+Lexical Diversity: 50.33%
+Common Words: [('exercise', 11), ('exercises', 9), ('body', 8), ('yoga', 8), ('core', 7)]
+Percentage of Stop Words: 39.32%
+Noun Count: 366
+
+URL: https://www.healthline.com/35
+Number of Sentences: 34
+Number of Words: 1331
+Average Word Length: 5.81
+Lexical Diversity: 46.36%
+Common Words: [('skin', 50), ('care', 24), ('acne', 10), ('tips', 9), ('healthline', 7)]
+Percentage of Stop Words: 36.96%
+Noun Count: 424
+
+URL: https://www.healthline.com/36
+Number of Sentences: 34
+Number of Words: 945
+Average Word Length: 6.26
+Lexical Diversity: 53.54%
+Common Words: [('sex', 10), ('birth', 7), ('get', 7), ('hiv', 7), ('relationship', 6)]
+Percentage of Stop Words: 35.87%
+Noun Count: 303
+
+URL: https://www.healthline.com/37
+Number of Sentences: 42
+Number of Words: 1112
+Average Word Length: 5.86
+Lexical Diversity: 50.90%
+Common Words: [('help', 9), ('health', 8), ('mental', 6), ('ways', 6), ('improve', 6)]
+Percentage of Stop Words: 40.11%
+Noun Count: 303
+
+URL: https://www.healthline.com/38
+Number of Sentences: 36
+Number of Words: 1115
+Average Word Length: 5.95
+Lexical Diversity: 49.51%
+Common Words: [('mental', 14), ('health', 11), ('need', 9), ('media', 8), ('help', 7)]
+Percentage of Stop Words: 36.50%
+Noun Count: 333
+
+URL: https://www.healthline.com/39
+Number of Sentences: 36
+Number of Words: 1008
+Average Word Length: 6.01
+Lexical Diversity: 49.80%
+Common Words: [('sleep', 39), ('healthline', 9), ('dreams', 9), ('get', 9), ('tips', 8)]
+Percentage of Stop Words: 37.00%
+Noun Count: 295
+
+URL: https://www.healthline.com/40
+Number of Sentences: 48
+Number of Words: 1544
+Average Word Length: 5.80
+Lexical Diversity: 43.72%
+Common Words: [('best', 59), ('2024', 17), ('services', 13), ('online', 9), ('health', 8)]
+Percentage of Stop Words: 32.97%
+Noun Count: 459
+
+URL: https://www.healthline.com/41
+Number of Sentences: 18
+Number of Words: 671
+Average Word Length: 7.09
+Lexical Diversity: 51.42%
+Common Words: [('best', 22), ('supplements', 20), ('2024', 9), ('according', 9), ('vitamin', 8)]
+Percentage of Stop Words: 29.66%
+Noun Count: 222
+
+URL: https://www.healthline.com/42
+Number of Sentences: 29
+Number of Words: 927
+Average Word Length: 6.03
+Lexical Diversity: 43.15%
+Common Words: [('best', 43), ('sleep', 16), ('mattresses', 16), ('back', 10), ('check', 9)]
+Percentage of Stop Words: 32.69%
+Noun Count: 273
+
+URL: https://www.healthline.com/43
+Number of Sentences: 31
+Number of Words: 1016
+Average Word Length: 6.19
+Lexical Diversity: 45.57%
+Common Words: [('best', 30), ('therapy', 18), ('online', 15), ('support', 11), ('books', 10)]
+Percentage of Stop Words: 32.58%
+Noun Count: 330
+
+URL: https://www.healthline.com/44
+Number of Sentences: 32
+Number of Words: 1346
+Average Word Length: 6.11
+Lexical Diversity: 43.16%
+Common Words: [('meal', 45), ('delivery', 43), ('best', 35), ('services', 26), ('review', 14)]
+Percentage of Stop Words: 28.60%
+Noun Count: 488
+
+URL: https://www.healthline.com/45
+Number of Sentences: 61
+Number of Words: 2207
+Average Word Length: 5.51
+Lexical Diversity: 36.70%
+Common Words: [('tests', 60), ('athome', 48), ('test', 47), ('best', 30), ('testing', 23)]
+Percentage of Stop Words: 35.30%
+Noun Count: 702
+
+URL: https://www.healthline.com/46
+Number of Sentences: 32
+Number of Words: 942
+Average Word Length: 5.82
+Lexical Diversity: 42.36%
+Common Words: [('cbd', 56), ('best', 28), ('products', 17), ('oils', 14), ('2024', 11)]
+Percentage of Stop Words: 31.10%
+Noun Count: 310
+
+URL: https://www.healthline.com/47
+Number of Sentences: 21
+Number of Words: 656
+Average Word Length: 6.52
+Lexical Diversity: 54.57%
+Common Words: [('hair', 11), ('loss', 10), ('2024', 8), ('ed', 8), ('review', 8)]
+Percentage of Stop Words: 31.71%
+Noun Count: 227
+
+URL: https://www.healthline.com/48
+Number of Sentences: 13
+Number of Words: 269
+Average Word Length: 9.11
+Lexical Diversity: 72.86%
+Common Words: [('healthline', 5), ('health', 4), ('advice', 4), ('information', 4), ('media', 4)]
+Percentage of Stop Words: 23.05%
+Noun Count: 114
+
+URL: https://www.healthline.com/49
+Number of Sentences: 15
+Number of Words: 402
+Average Word Length: 7.79
+Lexical Diversity: 67.16%
+Common Words: [('ms', 10), ('health', 8), ('benefits', 8), ('rd', 5), ('food', 4)]
+Percentage of Stop Words: 19.65%
+Noun Count: 189
+
+URL: https://www.healthline.com/50
+Number of Sentences: 16
+Number of Words: 360
+Average Word Length: 8.43
+Lexical Diversity: 71.11%
+Common Words: [('diagnosisby', 15), ('diagnosis', 12), ('personal', 5), ('storyby', 5), ('information', 4)]
+Percentage of Stop Words: 16.39%
+Noun Count: 181
+
+URL: https://www.healthline.com/51
+Number of Sentences: 15
+Number of Words: 419
+Average Word Length: 7.70
+Lexical Diversity: 69.45%
+Common Words: [('mental', 5), ('youre', 4), ('information', 4), ('healthline', 4), ('media', 4)]
+Percentage of Stop Words: 27.68%
+Noun Count: 161
+
+URL: https://www.healthline.com/52
+Number of Sentences: 14
+Number of Words: 435
+Average Word Length: 7.47
+Lexical Diversity: 63.68%
+Common Words: [('tense', 15), ('crystal', 6), ('see', 5), ('mindfulness', 4), ('ways', 4)]
+Percentage of Stop Words: 28.05%
+Noun Count: 170
+
+URL: https://www.healthline.com/53
+Number of Sentences: 50
+Number of Words: 1550
+Average Word Length: 5.66
+Lexical Diversity: 41.87%
+Common Words: [('video', 26), ('yoga', 18), ('learn', 14), ('period', 12), ('ways', 11)]
+Percentage of Stop Words: 35.81%
+Noun Count: 509
+
+URL: https://www.healthline.com/54
+Number of Sentences: 22
+Number of Words: 551
+Average Word Length: 7.00
+Lexical Diversity: 62.79%
+Common Words: [('health', 5), ('read', 5), ('reviewed', 4), ('morewhat', 4), ('information', 4)]
+Percentage of Stop Words: 31.94%
+Noun Count: 201
+
+URL: https://www.healthline.com/55
+Number of Sentences: 20
+Number of Words: 571
+Average Word Length: 6.63
+Lexical Diversity: 59.19%
+Common Words: [('ms', 7), ('information', 6), ('article', 5), ('morehow', 5), ('make', 5)]
+Percentage of Stop Words: 29.25%
+Noun Count: 218
+
+URL: https://www.healthline.com/56
+Number of Sentences: 15
+Number of Words: 422
+Average Word Length: 7.57
+Lexical Diversity: 56.87%
+Common Words: [('breast', 14), ('cancer', 12), ('metastatic', 11), ('artists', 7), ('healthline', 7)]
+Percentage of Stop Words: 27.01%
+Noun Count: 176
+
+URL: https://www.healthline.com/57
+Number of Sentences: 23
+Number of Words: 560
+Average Word Length: 6.93
+Lexical Diversity: 60.54%
+Common Words: [('reviewed', 6), ('health', 5), ('see', 5), ('read', 5), ('morewhat', 5)]
+Percentage of Stop Words: 31.25%
+Noun Count: 201
+
+URL: https://www.healthline.com/58
+Number of Sentences: 14
+Number of Words: 247
+Average Word Length: 9.05
+Lexical Diversity: 68.42%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 24.29%
+Noun Count: 98
+
+URL: https://www.healthline.com/59
+Number of Sentences: 12
+Number of Words: 223
+Average Word Length: 9.28
+Lexical Diversity: 71.30%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 23.77%
+Noun Count: 91
+
+URL: https://www.healthline.com/60
+Number of Sentences: 12
+Number of Words: 229
+Average Word Length: 9.08
+Lexical Diversity: 70.31%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 25.76%
+Noun Count: 95
+
+URL: https://www.healthline.com/61
+Number of Sentences: 12
+Number of Words: 240
+Average Word Length: 9.12
+Lexical Diversity: 69.17%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 27.50%
+Noun Count: 97
+
+URL: https://www.healthline.com/62
+Number of Sentences: 12
+Number of Words: 235
+Average Word Length: 9.34
+Lexical Diversity: 71.06%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 24.68%
+Noun Count: 99
+
+URL: https://www.healthline.com/63
+Number of Sentences: 24
+Number of Words: 1069
+Average Word Length: 6.80
+Lexical Diversity: 44.81%
+Common Words: [('tips', 14), ('guidance', 13), ('managing', 11), ('health', 10), ('advice', 10)]
+Percentage of Stop Words: 35.17%
+Noun Count: 370
+
+URL: https://www.healthline.com/72
+Number of Sentences: 12
+Number of Words: 192
+Average Word Length: 9.98
+Lexical Diversity: 73.44%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 21.35%
+Noun Count: 85
+
+URL: https://www.healthline.com/73
+Number of Sentences: 36
+Number of Words: 1065
+Average Word Length: 6.76
+Lexical Diversity: 50.70%
+Common Words: [('depression', 17), ('symptoms', 16), ('health', 15), ('mental', 14), ('professional', 11)]
+Percentage of Stop Words: 35.31%
+Noun Count: 329
+
+URL: https://www.healthline.com/74
+Number of Sentences: 73
+Number of Words: 1749
+Average Word Length: 5.84
+Lexical Diversity: 45.97%
+Common Words: [('work', 33), ('health', 15), ('addiction', 12), ('women', 10), ('reviewed', 9)]
+Percentage of Stop Words: 36.65%
+Noun Count: 523
+
+URL: https://www.healthline.com/75
+Number of Sentences: 35
+Number of Words: 715
+Average Word Length: 7.12
+Lexical Diversity: 56.78%
+Common Words: [('sleep', 23), ('reviewed', 6), ('research', 6), ('time', 5), ('information', 5)]
+Percentage of Stop Words: 32.17%
+Noun Count: 227
+
+URL: https://www.healthline.com/79
+Number of Sentences: 15
+Number of Words: 276
+Average Word Length: 9.50
+Lexical Diversity: 69.57%
+Common Words: [('information', 4), ('healthline', 4), ('media', 4), ('see', 4), ('additional', 4)]
+Percentage of Stop Words: 25.72%
+Noun Count: 121
+

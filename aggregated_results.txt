@@ -1,0 +1,8 @@
+Aggregated Results
+==================
+Average Number of Sentences: 4343
+Average Number of Words: 108742
+Average Average Word Length: 0.10
+Average Lexical Diversity: 0.70%
+Average Percentage of Stop Words: 0.26%
+Average Noun Count: 34032
